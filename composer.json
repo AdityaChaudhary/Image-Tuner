@@ -1,0 +1,13 @@
+{
+    "name": "aditya/image-tuner",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aditya Chaudhary",
+            "email": "adityachaudharyfb@gmail.com"
+        }
+    ],
+    "require": {
+        "imagine/imagine": "~0.5.0"
+    }
+}
